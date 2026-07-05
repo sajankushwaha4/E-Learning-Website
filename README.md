@@ -1,8 +1,12 @@
 # 📚 E-Learning Website
 
-A modern and responsive E-Learning website built using HTML5, CSS3, JavaScript, and Bootstrap. This project focuses on creating a clean, user-friendly interface for an online learning platform.
+A modern and responsive E-Learning website built using HTML5, CSS3, JavaScript, and Bootstrap. This project provides a clean and user-friendly interface for an online learning platform.
 
-## 🚀 Features
+## 🚀 Live Demo
+
+🌐 **Website:** https://sajankushwaha4.github.io/E-Learning-Website/
+
+## ✨ Features
 
 - Responsive Design
 - Modern UI/UX
@@ -23,10 +27,10 @@ A modern and responsive E-Learning website built using HTML5, CSS3, JavaScript, 
 - Font Awesome
 - Google Fonts
 
-## 📂 Folder Structure
+## 📂 Project Structure
 
-```
-E-Learning/
+```text
+E-Learning-Website/
 │── index.html
 │── css/
 │── js/
@@ -34,19 +38,19 @@ E-Learning/
 └── assets/
 ```
 
-## 💻 Installation
+## 🚀 Getting Started
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/E-Learning.git
+git clone https://github.com/sajankushwaha4/E-Learning-Website.git
 ```
 
 2. Open the project folder.
 
-3. Run `index.html` in your browser.
+3. Open `index.html` in your browser.
 
-## 📱 Responsive
+## 📱 Responsive Design
 
 - Desktop
 - Tablet
@@ -54,8 +58,12 @@ git clone https://github.com/your-username/E-Learning.git
 
 ## 📄 License
 
-This project is created for learning and portfolio purposes.
+This project is for learning and portfolio purposes.
 
 ## 👨‍💻 Author
 
 **Sajan Kushwaha**
+
+- GitHub: https://github.com/sajankushwaha4
+- Live Demo: https://sajankushwaha4.github.io/E-Learning-Website/
+- 
